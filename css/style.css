@@ -177,6 +177,7 @@ nav ul li a:hover {
 
     #page3 {
         display: grid;
+        height: 100%;
         grid-template-rows: 150px min-content auto min-content;
         grid-template-columns: 200px auto auto;
         grid-template-areas:
